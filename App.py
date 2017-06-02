@@ -1,6 +1,6 @@
 from flask import Flask, json, request
 import os
-# from flask_rest_service import app
+
 app = Flask(__name__)
 
 # http://127.0.0.1:5000/
