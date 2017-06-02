@@ -1,4 +1,5 @@
 # Athena Server
 Server that lets you post to it and will return a JSON.
-
-## Just using it as a tester server for now
+   
+The Athena Server is part of a larger AI project. 
+Check out the parent repo [here](https://github.com/Jspsun/Athena)
